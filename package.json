@@ -7,10 +7,6 @@
     "json-server": "lib/bin.js"
   },
   "types": "lib",
-  "files": [
-    "lib",
-    "views"
-  ],
   "engines": {
     "node": ">=18.3"
   },
